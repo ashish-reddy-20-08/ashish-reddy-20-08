@@ -3,6 +3,8 @@
 ## 🚀 About Me
 ✒ Aspiring Data Scientist. 
 
+📕 Currently working on Deep Learning and AI.
+
 📖 Trying to draw some best insights from the data.
 
 ✈Love to explore new things. 
