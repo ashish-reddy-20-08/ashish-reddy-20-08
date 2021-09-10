@@ -7,7 +7,7 @@
 
 📖 Trying to draw some best insights from the data.
 
-✈Love to explore new things. 
+✈Love to explore new things and research. 
 
 💥Data Scientist Intern at LetsGrowMore, The Sparks Foundationa and TareZameen Foundation.
 
