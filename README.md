@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-<a href="https://github.com/AryaPatel1111">
+<a href="https://github.com/ashish-reddy-20-08">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish-reddy-20-08&show_icons=true&hide_border=false&title_color=ffffff&amp&icon_color=bb2acf&amp&text_color=daf7dc&amp&bg_color=191919"/>
 </a>
-<a href="https://github.com/AryaPatel1111">
+<a href="https://github.com/ashish-reddy-20-08">
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-reddy-20-08&theme=dark&hide_langs_below=0" />
 </a>
 
