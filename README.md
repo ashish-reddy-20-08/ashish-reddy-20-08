@@ -3,7 +3,7 @@
 
 
 
-## 🚀 About Me
+## 🚀 About Me ->
 ✒ Aspiring Data Scientist
 
 📕 Currently working on Deep Learning and AI.
