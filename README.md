@@ -71,11 +71,5 @@ Here are some ideas to get you started:
 </div>
 <hr>
 
-<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashish-reddy-20-08&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-<hr>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=ashish-reddy-20-08&theme=react&border_color=61dafb&langs_count=13" alt="Ashish's wakatime" />
-</a>
 
