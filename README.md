@@ -25,9 +25,6 @@
 ✨ Data science ✨ NLP ✨ Tableau ✨ Data Visualization ✨ Machine Learning ✨ Data Mining ✨ Python ✨ R Programming ✨
 
   
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-r-2b4091b7/)
 
 
   
@@ -71,7 +68,7 @@ Here are some ideas to get you started:
 </div>
 <hr>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me on:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/ashish-r-2b4091b7/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
