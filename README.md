@@ -79,9 +79,3 @@ Here are some ideas to get you started:
     <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=ashish-reddy-20-08&theme=react&border_color=61dafb&langs_count=13" alt="Ashish's wakatime" />
 </a>
 
-<a href="https://github.com/ashish-reddy-20-08/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=ashish-reddy-20-08&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
- </a>
-<a href="(https://git.io/streak-stats" title="Go to Source">
-      <img align="right" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=ashish-reddy-20-08&theme=react&border=61DAFB&fire=DDB80F"/>
- </a>
