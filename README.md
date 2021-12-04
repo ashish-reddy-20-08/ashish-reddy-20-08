@@ -71,5 +71,16 @@ Here are some ideas to get you started:
 </div>
 <hr>
 
-
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://www.facebook.com/anuvab.sen.5095/" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" height="40"
+            width="40" /></a>
+    <a href="" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
+            width="40" /></a>
+    <a href="https://www.instagram.com/anuvabsen_/" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
+            width="40" /></a>
+</p>
 
