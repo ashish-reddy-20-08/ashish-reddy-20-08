@@ -62,3 +62,14 @@ Here are some ideas to get you started:
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-reddy-20-08&" alt="ashish-reddy-20-08" /></p>
+
+
+<div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=ashish-reddy-20-08&theme=onedark&column=8" alt="zumrudu-anka" />
+    </a>
+</div>
+<hr>
+
+<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashish-reddy-20-08&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<hr>
