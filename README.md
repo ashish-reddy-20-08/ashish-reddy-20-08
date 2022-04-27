@@ -1,12 +1,12 @@
-## HEY  ... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## HEY  .... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 
 
 ## 🚀 About Me ->
-✒ Aspiring Data Scientist.
+✒ Aspiring Data Scientist, web developer.
 
-📕 Currently working on Deep Learning and AI.
+📕 Currently working on Deep Learning,AI and web development
 
 📖 Trying to draw some best insights from the data.
 
