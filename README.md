@@ -1,6 +1,10 @@
 ## HEY  ....
 
-
+I’m a strategic, enthusiastic, industrious person who is a 
+fast learner, keen observer with 1 year of internship 
+experience and agile team working skills. Solving problem 
+that drives me through new inventions is what I am 
+passionate about.
 
 
 ## 🚀 About Me ->
